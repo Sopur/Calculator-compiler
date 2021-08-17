@@ -2,4 +2,4 @@
 out/build
 out/calc
 out/calc.o
-input/input.calc.asm
+inputs/input.calc.asm
