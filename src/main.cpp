@@ -38,7 +38,6 @@ int main(const int argc, const char *argv[])
         throwError("Invalid argument(s)");
     }
     const std::string &path = getPath(argv[1]);
-    const std::string &parentPath = fs::path(path).parent_path();
     std::cout << path << std::endl;
 
     // Check if the file given exists

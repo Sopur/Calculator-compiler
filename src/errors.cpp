@@ -1,10 +1,6 @@
 #include <iostream>
 #include <math.h>
 
-// Other shit
-const int contentAmount = 10;
-const int deep = 4;
-
 // Terminal colors and shit
 const char RED[] = "\x1B[31m";
 const char RESET[] = "\x1b[0m";
